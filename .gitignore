@@ -1,0 +1,24 @@
+# dependencies
+/node_modules
+/.next
+
+# environment variables
+.env
+.env.local
+.env.production
+.env.*.local
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+
+# OS metadata
+Thumbs.db
+
+# optional: Vercel or Netlify
+.vercel
+.netlify
